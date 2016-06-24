@@ -1,4 +1,4 @@
-# Google Translate via CLI.
+# Google Translate via CLI
 
 Translate texts using Google Translate from your terminal.
 
