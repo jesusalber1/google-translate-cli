@@ -1,0 +1,24 @@
+{
+  "name": "google-translate-cli",
+  "author": "Jesús Alberto Polo García <japologarcia@gmail.com>",
+  "version": "0.0.1",
+  "description": "Google Translate via CLI.",
+  "homepage" : "https://github.com/jesusalber1/google-translate-cli",
+  "main": "translate.js",
+  "preferGlobal": true,
+  "bin": {
+    "translate": "translate.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jesusalber1/google-translate-cli.git"
+  },
+  "dependencies": {
+    "commander": "^2.9.0",
+    "request": "^2.72.0"
+  }
+}
