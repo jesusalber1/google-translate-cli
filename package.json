@@ -4,10 +4,10 @@
   "version": "0.0.1",
   "description": "Google Translate via CLI.",
   "homepage" : "https://github.com/jesusalber1/google-translate-cli",
-  "main": "translate.js",
+  "main": "lib/translate.js",
   "preferGlobal": true,
   "bin": {
-    "translate": "translate.js"
+    "translate": "lib/translate.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
