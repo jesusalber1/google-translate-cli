@@ -29,6 +29,9 @@ npm install -g google-translate-cli
 ```
 Translations from English to Spanish by default.
 
+## Examples
+![Command examples](https://cloud.githubusercontent.com/assets/3829533/16347285/26f72b3e-3a4c-11e6-97e8-26ad3d02dc4f.png)
+
 ## TODO
 * Add editable default options
 * Add tests
