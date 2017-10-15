@@ -32,6 +32,14 @@ Translations from English to Spanish by default.
 ## Examples
 ![Command examples](https://cloud.githubusercontent.com/assets/3829533/16347285/26f72b3e-3a4c-11e6-97e8-26ad3d02dc4f.png)
 
+## Default options (thanks to @michaelsavich)
+Default languages supported by using environment variables:
+```
+export JA_GTC_SOURCE='en' # your preferred source language code
+export JA_GTC_TARGET='es' # your preferred target language code
+```
+If those environment variables are not set then translations from English to Spanish by default.
+
 ## TODO
-* Add editable default options
+* ~~Add editable default options~~
 * Add tests
