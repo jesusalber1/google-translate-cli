@@ -1,7 +1,7 @@
 {
   "name": "google-translate-cli",
   "author": "Jesús Alberto Polo García <japologarcia@gmail.com>",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Google Translate via CLI.",
   "homepage" : "https://github.com/jesusalber1/google-translate-cli",
   "main": "lib/translate.js",
