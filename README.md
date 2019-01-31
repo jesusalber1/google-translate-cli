@@ -26,6 +26,7 @@ npm install -g google-translate-cli
      $ translate -s es -t en 'Quiero traducir este texto'
      $ translate -s en -t es I want to translate this text
      $ translate -a 'Au revoir' -d
+     $ pbpaste | translate # when text stored in Mac clipboard
 ```
 Translations from English to Spanish by default.
 
