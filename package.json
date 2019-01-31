@@ -1,8 +1,20 @@
 {
   "name": "google-translate-cli",
-  "author": "Jesús Alberto Polo García <japologarcia@gmail.com>",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Google Translate via CLI.",
+  "author": "Jesús Alberto Polo García <japologarcia@gmail.com>",
+  "contributors": [
+    {
+      "name" : "Brian Prodoehl",
+      "url" : "https://github.com/bprodoehl"
+    }, {
+      "name" : "laggingreflex",
+      "url" : "https://github.com/laggingreflex"
+    }, {
+      "name" : "michaelsavich",
+      "url" : "https://github.com/michaelsavich"
+    }
+  ],
   "homepage" : "https://github.com/jesusalber1/google-translate-cli",
   "main": "lib/translate.js",
   "preferGlobal": true,
